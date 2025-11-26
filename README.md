@@ -16,6 +16,8 @@ The dataset contains 8 tables:
 * **geolocation**: Zip code and latitude/longitude info
 * **order_items**: Items per order with price and freight
 * **order_reviews**: Customer reviews and scores
+ > Note: `geolocation.csv` is optional due to size limits and is not included.
+
 
 **Time period covered:** September 2016 – October 2018
 
